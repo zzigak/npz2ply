@@ -1,1 +1,2 @@
+# npz2ply
 For anyone doing any form of Gaussian splatting, if you are trying to use .ply based viewers, but you're using a fork of Inria's implementation of 3DGS, I made a little script that converts the params.npz  into a viewable .ply ; the converted format is equivalent to Nerfstudio's splatfacto output of splat.ply. Currently it works for either vanilla or dynamic splatting from JonathanLuiten, but is easily adjustable.
